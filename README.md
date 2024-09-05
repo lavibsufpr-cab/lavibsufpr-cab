@@ -17,7 +17,7 @@
 Prof. Carlos Alberto Bavastri<br>
 Prof. Eduardo Márcio de Oliveira Lopes
 </p>
-</p>Official Homepage: http://www.gvibs.ufpr.br<br>
+</p>Official Homepage: <a href="https://demec.ufpr.br/grupos-de-pesquisa/gvibs5/"> GVIBS </a><br>
 Address: 
 UFPR - Federal University of Parana<br>
 Department of Mechanical Engineering<br>
